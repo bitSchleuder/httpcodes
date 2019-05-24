@@ -8,3 +8,5 @@ If you know [AlfredApp](https://www.alfredapp.com) and the [http-status-code plu
 ![](./httpcodes.gif)
 
 
+
+Codes and links are from [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status).
