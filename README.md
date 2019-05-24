@@ -4,6 +4,7 @@ If you know [AlfredApp](https://www.alfredapp.com) and the [http-status-code plu
 1. Clone httpcodes into any location on macos.
 2. Install a QuickLook plug-in (e.g. [InkMark](http://inkmarkapp.com/markdown-quick-look-plugin-mac-os-x/) or [qlmarkdown](https://github.com/toland/qlmarkdown))
 3. Search in Spotlight like:
+
 ![](./httpcodes.gif)
 
 
